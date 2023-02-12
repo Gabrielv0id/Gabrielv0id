@@ -2,7 +2,7 @@
 
 <hr />
 
- ![Platane/snk/svg-only@v2](https://platane.github.io/snk/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielv0id&show_icons=true&theme=midnight-purple)
   
 <hr />
 
