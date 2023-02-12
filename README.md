@@ -2,7 +2,7 @@
 
 <hr />
 
- ![Snake animation](https://github.com/Gabrielv0id/Gabrielv0id/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](Platane/snk/svg-only@v2)
   
 <hr />
 
