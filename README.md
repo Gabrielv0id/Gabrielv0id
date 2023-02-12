@@ -1,5 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=790ba1&size=40&center=true&vCenter=true&width=391&height=54&lines=Hello+There!)
 
+<hr />
+
+ ![Snake animation](https://github.com/alexcubas/Gabrielv0id/blob/output/github-contribution-grid-snake.svg)
+  
+<hr />
+
 <!--
 **Gabrielv0id/Gabrielv0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
