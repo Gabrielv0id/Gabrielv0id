@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=34F70E&size=50&center=true&vCenter=true&width=391&height=54&lines=Hi+There!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=790ba1&size=40&center=true&vCenter=true&width=391&height=54&lines=Hello+There!)
 
 <!--
 **Gabrielv0id/Gabrielv0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
