@@ -10,7 +10,7 @@
   
 <hr />
 
-##Skills:
+<h2> Skills: </h2>
 <div align="center" style="display: inline_block"><br>
   <img  align="center" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="50" />
   <img  align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="50"/> 
