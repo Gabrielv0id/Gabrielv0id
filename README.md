@@ -11,9 +11,8 @@
 <hr />
 
 ##Skills:
-
- <div align="center" style="display: inline_block"><br>
-<img  align="center" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="30" height="60" />
+<div align="center" style="display: inline_block"><br>
+  <img  align="center" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="30" height="60" />
   <img  align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="30" height="60"/> 
   <img  align="center" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="30" height="60"/>
   <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="60" />
