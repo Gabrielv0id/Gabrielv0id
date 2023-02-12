@@ -3,6 +3,7 @@
 <hr />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielv0id&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielv0id&layout=compact&langs_count=7&theme=midnight-purple)
   
 <hr />
 
