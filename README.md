@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=790ba1&size=40&center=true&vCenter=true&width=391&height=54&lines=Hello+There!)
 <a href="(https://www.linkedin.com/in/gfmarins/)" target="_blank">
-<img  height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />         
+<img  height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /> </a>
 
 <hr />
 <div align="center">
