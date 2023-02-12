@@ -2,7 +2,7 @@
 
 <hr />
 
- ![Snake animation](Platane/snk/svg-only@v2)
+ ![Platane/snk/svg-only@v2](https://platane.github.io/snk/)
   
 <hr />
 
